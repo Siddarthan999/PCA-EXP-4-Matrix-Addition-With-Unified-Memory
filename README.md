@@ -1,6 +1,7 @@
 # PCA-EXP-4-Matrix-Addition-With-Unified-Memory
 ## AIM:
 To perform Matrix Addition with Unified Memory and to identify whether removing the memsets affects the performance or not.
+
 ## PROCEDURE:
 1. Include the required files and library.
 2. Introduce a function named "initialData","sumMatrixOnHost","checkResult" to return the initialize the data , perform matrix summation on the host and then check the result.
